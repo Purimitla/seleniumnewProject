@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="pack.Pali"/>
+      <class name="pack.MatrixArray"/>
+      <class name="pack.Palindrom"/>
+      <class name="pack.Arraylist"/>
+      <class name="pack.ReadExcel"/>
+      <class name="pack.GmailLogin"/>
+      <class name="pack.PolyNum"/>
+      <class name="pack.ArraySum"/>
+      <class name="pack.Generic"/>
+      <class name="pack.ReverseArray"/>
+      <class name="pack.SortArray"/>
+      <class name="pack.ArrayEven"/>
+      <class name="pack.SortArrayList"/>
+      <class name="pack.Testgrp"/>
+      <class name="pack.ArrayComparing"/>
+      <class name="pack.Array"/>
+      <class name="pack.Ref"/>
+      <class name="pack.NewTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
