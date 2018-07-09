@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <test name="FirefoxTest(failed)" parallel="tests">
+    <classes>
+      <class name="Freq.Task4">
+        <methods>
+          <include name="setDriver"/>
+          <include name="fourthTestcase"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- Freq.Task4 -->
+    </classes>
+  </test> <!-- FirefoxTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
