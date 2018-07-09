@@ -28,7 +28,7 @@ public class SortArrayList {
 //	    Collections.reverse(list);
 	    Collections.sort(list,Collections.reverseOrder());
 	    System.out.println(list);
-	    
+
 		
 	}
 
